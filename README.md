@@ -8,6 +8,15 @@ Therefore, an position-aware and general pre-training method has been proposed t
 
 Although results show the proposed model’s poor generalizability in unseen test dataset, the training framework of encoding non-low-dimension feature of shortest path distance into low-dimension vector has been proved effective. The result may lead future researchers focusing more on generalizability of the proposed model.
 
+# Quick Start
+## Use pip/conda set up environment
+<code>pip install -r requirements.txt</code>
+
+## Run main.py
+<code>python main.py</code>
+
+
+
 # Pipeline
 ## Pretraining stage
 <img width="923" alt="image" src="https://github.com/daniel620/CPSC-583-Final-Project/assets/60392737/f1b720c0-f85d-40e1-911b-94664f7e912f">
