@@ -10,4 +10,6 @@ Although results show the proposed model’s poor generalizability in unseen tes
 
 # Pipeline
 ## Pretraining stage
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/90f42126-bdbf-403a-9cde-b7deabb6f6ef/0fa4ccbd-54e6-4b9f-ae2a-57225822dd89/Untitled.png)
+<img width="923" alt="image" src="https://github.com/daniel620/CPSC-583-Final-Project/assets/60392737/f1b720c0-f85d-40e1-911b-94664f7e912f">
+## Downstream stage
+<img width="780" alt="image" src="https://github.com/daniel620/CPSC-583-Final-Project/assets/60392737/247ebbb8-d06f-4de4-8843-cb244066b450">
